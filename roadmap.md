@@ -1,0 +1,3 @@
+- [x] Build founder-led portfolio landing page and editable team interface.
+- [x] Replace rejected visual options with a distinct, restrained visual direction.
+- [x] Verify desktop/mobile layout and member editing flow.
